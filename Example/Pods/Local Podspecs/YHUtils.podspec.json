@@ -1,0 +1,22 @@
+{
+  "name": "YHUtils",
+  "version": "0.1.0",
+  "summary": "A short description of YHUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/892146350@qq.com/YHUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "892146350@qq.com": "lianzhengcao@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/892146350@qq.com/YHUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YHUtils/Classes/**/*"
+}

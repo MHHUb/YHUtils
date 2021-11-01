@@ -1,0 +1,16 @@
+PODS:
+  - YHUtils (0.1.0)
+
+DEPENDENCIES:
+  - YHUtils (from `../`)
+
+EXTERNAL SOURCES:
+  YHUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YHUtils: 1ba249fb2f138b0e67ab3e02ee37cf9d869a2909
+
+PODFILE CHECKSUM: 68d4af0112ac83a3ec9612c992fe8a10bc6a2668
+
+COCOAPODS: 1.10.1
